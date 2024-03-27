@@ -1,14 +1,12 @@
 {
    "title":"Immediate Disadvantage",
-   "description":"Ji-yoon, who had a boring daily life without anything special, meets Hyun-soo, a man who claims to be his mother's boyfriend. Ji-yoon, who always had the same taste as her mother. Seeing Hyun-soo cry in front of her makes me think that I want to bully him more...
-""What about me? I can be really nice to you""",
+   "description":"Ji-yoon, who had a boring daily life without anything special, meets Hyun-soo, a man who claims to be his mother's boyfriend. Ji-yoon, who always had the same taste as her mother. Seeing Hyun-soo cry in front of her makes me think that I want to bully him more...\n""What about me? I can be really nice to you""",
    "artist":"수락",
    "author":"수락",
    "cover":"https://pbs.twimg.com/media/FylxQdJWAAE_Z70?format=jpg&name=medium",
    "chapters":{
       "1":{
          "title":"Chapter 1",
-         "volume": "N/A",
          "groups":{
             "Shaved Ice Scans":"/proxy/api/imgur/chapter/uEci6h8/"
          },
@@ -16,7 +14,6 @@
       },
       "2":{
          "title":"Chapter 2",
-         "volume": "N/A",
          "groups":{
             "Shaved Ice Scans":"/proxy/api/imgur/chapter/GdEQ1pF/"
          },
