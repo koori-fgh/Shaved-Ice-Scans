@@ -8,6 +8,7 @@
    "chapters":{
       "1":{
          "title":"Chapter 1",
+         "volume": "N/A",
          "groups":{
             "Shaved Ice Scans":"/proxy/api/imgur/chapter/uEci6h8/"
          },
@@ -15,6 +16,7 @@
       },
       "2":{
          "title":"Chapter 2",
+         "volume": "N/A",
          "groups":{
             "Shaved Ice Scans":"/proxy/api/imgur/chapter/GdEQ1pF/"
          },
